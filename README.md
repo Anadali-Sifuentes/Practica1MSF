@@ -1,9 +1,9 @@
-[![Open in MATLAB Online]
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Anadali-Sifuentes/Practica1MSF)
 
 # Práctica 1: Diseño de controladores
 
 ## Información del estudiante
-Nombres y Apellidos \[No. Control]; correo institucional
+Anadali Sifuentes Castro [22212273]; L22212273@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
