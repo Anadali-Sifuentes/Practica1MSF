@@ -2,7 +2,7 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información del estudiante
+## Información de la estudiante
 Anadali Sifuentes Castro [22212273]; L22212273@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
